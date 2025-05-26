@@ -15,7 +15,7 @@
       Fork the repository to customize and use the bot for your needs.
       <br><br>
       <a href="https://github.com/keithkeizzah/KEITH-MD/fork">
-        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
+        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK LUCK" width="150">
       </a>
     </td>
     <td align="center">
